@@ -1,0 +1,16 @@
+{
+  "name": "venue-seed-scripts",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.17.1",
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules
+.dist
+build
+coverage
+.env
+*.log
+mobile-app/.expo
+mobile-app/dist
+backend/dist
+admin-panel/dist
+seed-scripts/dist
